@@ -13,7 +13,7 @@
   "repository": "git@github.com:mpvue/postcss-mpvue-wxss.git",
   "homepage": "https://github.com/mpvue/postcss-mpvue-wxss",
   "dependencies": {
-    "postcss": "^6.0.8",
+    "postcss": "^8.2.13",
     "postcss-selector-parser": "^2.2.3"
   },
   "devDependencies": {
